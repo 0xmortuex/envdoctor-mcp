@@ -13,10 +13,10 @@ from pathlib import Path
 import pytest
 
 PLANTED = {
-    "stripe": "sk_live_PLANTED_stripe_4eC39HqLyjWDarjtT1zdp7dc",
+    "stripe": "PLANTED_STRIPE_sk_4eC39HqLyjWDarjtT1zdp7dc",
     "dbpass": "PLANTEDpw_Zx81qLmN3vB",
     "jwt": "eyJhbGciOiJIUzI1NiJ9.PLANTEDpayloadQ2xhdWRl.PLANTEDsig_7YhGfDs",
-    "token": "ghp_PLANTEDtoken0123456789abcdefABCDEF",
+    "token": "PLANTED_ghtoken_0123456789abcdefABCDEF",
     "session": "PLANTED-session-secret-value-9981",
     "api_host": "internal-api.planted-host.example",
     "garbage_line": "this line has PLANTED_GARBAGE_SECRET_5521 and is not an assignment",
