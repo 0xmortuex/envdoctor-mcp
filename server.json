@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.0xmortuex/envdoctor-mcp",
+  "description": "Diagnose .env problems read-only: compare, find usage, validate, gitignore check. Never shows a value.",
+  "repository": {
+    "url": "https://github.com/0xmortuex/envdoctor-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "envdoctor-mcp",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}
